@@ -39,3 +39,15 @@ header nav div img {
     width: 24px;
     height: 24px;
 }
+
+#banner {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 120px;
+    margin-right: 132px;
+}
+
+.banner-title {
+    margin-top: 145px;
+}
+
